@@ -1,5 +1,5 @@
 {
-  "name": "chalkintro",
+  "name": "chalk",
   "version": "1.0.0",
   "description": "setup chalk",
   "main": "index.js",
@@ -12,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mike Baker",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbaker1/chalk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbaker1/chalk/issues"
+  },
+  "homepage": "https://github.com/mdbaker1/chalk#readme"
 }
